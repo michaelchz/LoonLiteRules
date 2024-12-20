@@ -12,3 +12,6 @@ DOMAIN-KEYWORD,sina.com
 # Apple
 DOMAIN-KEYWORD,icloud.com
 DOMAIN-KEYWORD,apple.com
+
+# Others
+DOMAIN-SUFFIX,investing.com
