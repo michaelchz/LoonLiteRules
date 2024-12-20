@@ -1,1 +1,14 @@
+# Microsoft
+DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,live.com
+
+DOMAIN-KEYWORD,.msn.
+DOMAIN-KEYWORD,.bing.
+
+# Sina
+DOMAIN-KEYWORD,sina.com
+
+# Apple
+DOMAIN-KEYWORD,icloud.com
+DOMAIN-KEYWORD,apple.com
