@@ -10,8 +10,9 @@ DOMAIN-KEYWORD,.bing.
 DOMAIN-KEYWORD,sina.com
 
 # Apple
-DOMAIN-KEYWORD,icloud.com
-DOMAIN-KEYWORD,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.cn
 
 # Others
 DOMAIN-SUFFIX,investing.com
